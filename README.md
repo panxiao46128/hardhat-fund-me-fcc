@@ -1,6 +1,9 @@
-# Sample Hardhat Project
+Hello! welcome to my github 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Sample Hardhat Project
+the project that explore the future of the Internet in the web3 world will be exciting for you.
+Way of the traditional write code is ineffective than using framework ,so this project is using the new thing. Yes, Hardhat ! ! !
+
 
 Try running some of the following tasks:
 

@@ -22,7 +22,7 @@ Hello! welcome to my github !
 - [Formatting](#formatting)
 - [Thank you!](#thank-you)
 
-This project is apart of the Hardhat FreeCodeCamp video.
+
 
 # Getting Started
 

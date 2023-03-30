@@ -1,13 +1,8 @@
 # FUND-ME 
 Hello! welcome to my github ! 
 
-# Hardhat Simple Storage
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
-*[⌨️ (08:20:17) Lesson 6: Hardhat Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30017s)*
-
-*This repo has been updated for Sepolia over Goerli.*
 
 [Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
@@ -16,8 +11,7 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
-    - [Optional Gitpod](#optional-gitpod)
+
 - [Usage](#usage)
   - [Testing](#testing)
     - [Test Coverage](#test-coverage)
